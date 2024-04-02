@@ -1,0 +1,36 @@
+* {
+  margin: auto;
+  padding: 0;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.area {
+  width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.hole {
+  width: 20%;
+  height: 10vw;
+  margin: 2%;
+  border: 2px black solid;
+  border-radius: 50%;
+}
+
+.cursor {
+  position: absolute;
+  width: 8%;
+  margin: 0;
+  pointer-events: none;
+  left: -4%;
+  top: -5%;
+}
+
+body {
+  cursor: none;
+}
