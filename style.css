@@ -1,0 +1,1 @@
+*{margin:auto;padding:0}h1,h2{text-align:center}.area{display:flex;flex-wrap:wrap;justify-content:space-around;width:50%}.hole{border:2px solid #000;border-radius:50%;height:10vw;margin:2%;width:20%}.cursor{left:-4%;margin:0;pointer-events:none;position:absolute;top:-5%;width:8%}body{cursor:none}
